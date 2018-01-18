@@ -45,6 +45,7 @@
 	"dependencies": {
 		"file-type": "^7.4.0",
 		"parse5": "^3.0.3",
+		"html-entities": "^1.2.1",
 		"webpack": "*"
 	},
 	"devDependencies": {
